@@ -1,1 +1,6 @@
-touch
+git checkout main
+git fetch origin
+git pull origin main
+git add README.md
+git commit -m 'Updated README.md'
+git push origin master
