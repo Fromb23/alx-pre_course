@@ -1,3 +1,4 @@
 git checkout master
 git fetch origin
 git merge origin/master
+git pull origin master
